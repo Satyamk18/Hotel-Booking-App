@@ -12,14 +12,14 @@ code {
     monospace;
 }
 .navbar{
-  background-color: grey !important;
+  background-color: black !important;
 }
 
-.navlink{
-  color: whitesmoke !important;
+.nav-link{
+color: white !important;
 }
 
-.navlink-brand{
+.navbar-brand{
     color:white  !important ;
 }
 

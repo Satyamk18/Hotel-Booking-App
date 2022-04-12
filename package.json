@@ -9,10 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.1",
     "express": "^4.17.3",
     "mongodb": "^4.4.1",
     "mongoose": "^6.2.8",
+<<<<<<< HEAD
     "stripe": "^8.216.0",
     "uuid": "^8.3.2"
+=======
+    "react-router-dom": "^6.3.0"
+>>>>>>> 122a5c2293e67919e77ad0e3058016ef4e3519eb
   }
 }
